@@ -63,16 +63,16 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pradipbabar&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=priyanshu29&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradipbabar&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu29&theme=dark&hide_border=true" />
 
   
   </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Pradipbabar&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=priyanshu29&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -88,7 +88,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Pradipbabar&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=priyanshu29&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -110,11 +110,11 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://in.linkedin.com/in/pradip-babar-7ab00b1a1" target="https://in.linkedin.com/in/pradip-babar-7ab00b1a1">
+<a href="https://www.linkedin.com/in/priyanshu-tiwari-a49a0a197" target="https://www.linkedin.com/in/priyanshu-tiwari-a49a0a197">
   <img align="center" alt="Pradip | Linkedin" width="24px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> 
 </a> &nbsp;&nbsp;
 
-<a href="mailto:prb5928@gmail.com" >
+<a href="mailto:priyanshut7@gmail.com" >
   <img align="center" alt="Pradip Babar | Gmail" width="26px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
 </a> &nbsp;&nbsp;
 
@@ -128,10 +128,10 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Pradipbabar/count.svg" />  
+  <img src="https://profile-counter.glitch.me/priyanshu29/count.svg" />  
 </p>
   <br>
   <p align="center">
-  <img src="https://github.com/Pradipbabar/Pradipbabar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/priyanshu29/priyanshu29/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
