@@ -59,4 +59,3 @@ jobs:
           branch: main
           force: true
 
-has context menu
